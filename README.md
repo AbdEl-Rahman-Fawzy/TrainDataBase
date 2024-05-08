@@ -42,6 +42,6 @@ This project aims to develop a Train Ticket Booking System database. The system 
   - Select data involving more than one table using joins.
 
 ## GUI Implementation
-- Implement a GUI using JavaFX
+- Implement a GUI using JFRAME
   - Include functionalities such as user registration, train management, trip management, seat availability, booking, and cancellation.
 
